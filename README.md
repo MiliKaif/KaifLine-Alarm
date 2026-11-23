@@ -5,7 +5,7 @@
 Сигнализация для BeamNG.drive · Тестовая версия 0.5.74
 
 <p>
-  <a href="https://pay.cloudtips.ru/p/ad8e5d48"><img src="https://img.shields.io/badge/Поддержать_проект-CloudTips-78A94B?style=for-the-badge&amp;logo=buymeacoffee&amp;logoColor=white" alt="Поддержать проект через CloudTips"></a>
+  <a href="https://pay.cloudtips.ru/p/ad8e5d48"><img src="https://img.shields.io/badge/Поддержать_автора-CloudTips-78A94B?style=for-the-badge&amp;logo=buymeacoffee&amp;logoColor=white" alt="Поддержать автора через CloudTips"></a>
   &nbsp;
   <a href="https://t.me/Ugol_Kaifa"><img src="https://img.shields.io/badge/Telegram-Угол_Кайфа-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram-канал Угол Кайфа"></a>
 </p>
